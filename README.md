@@ -44,6 +44,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+# Runs at port 8001
 
 ## Test
 
